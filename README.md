@@ -4,4 +4,4 @@ Simply enter your team name and league ID into the season info cell (shown below
 
 ![](enter_season.PNG)
 
-The notebook will then save a csv that you can use to analyze your draft in the way you see fit.
+The notebook will then save a csv with the draft info, fantasy stats, and a value metric that I created that you can use to analyze your draft.
